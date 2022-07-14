@@ -1,6 +1,6 @@
 Hotel bookings - factors
 ================
-Naomi Ekas
+Not Naomi Ekas (i.e., Thomas)
 
 ``` r
 library(tidyverse)

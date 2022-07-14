@@ -1,6 +1,6 @@
 ---
 title: "Hotel bookings - factors"
-author: "Naomi Ekas"
+author: "Not Naomi Ekas (i.e., Thomas)"
 output: github_document
 ---
 
